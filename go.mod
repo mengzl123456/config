@@ -1,4 +1,4 @@
-module config.v1
+module config
 
 go 1.13
 
