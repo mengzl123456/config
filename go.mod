@@ -1,4 +1,4 @@
-module config
+module github.com/mengzl123456/config
 
 go 1.13.5
 
